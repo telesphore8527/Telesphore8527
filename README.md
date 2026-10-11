@@ -71,8 +71,8 @@ I build clean, responsive and fast websites and web applications, from showcase 
 
 ## Featured Project
 
-### [Qotdia](https://github.com/Telesphore8527/qotdia) — *in development*
-A daily quote application exposed through a REST API. Laravel backend, React frontend.
+### [Qotdia-web](https://github.com/Telesphore8527/qotdia-web)
+A daily quote application exposed through a REST API [Qotdia-api](https://api.qotdia.com/docs) Laravel backend, React frontend.
 
 ## Selected Work
 
