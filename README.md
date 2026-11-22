@@ -1,5 +1,5 @@
-<h1 align="center">Telesphore Kuedjeu Kuedjeu</h1>
-<p align="center"><b>Junior Full-Stack Developer · Available for freelance</b><br>Based in Cameroon 🇨🇲</p>
+<h1 align="center">Telesphore Kuedjeu </h1>
+<p align="center"><b> Web Developer & Freelance Full-Stack Developer · Available for freelance</b><br>Based in Cameroon 🇨🇲</p>
 
 <p align="center">
   <a href="mailto:telesphorekuedjeu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
